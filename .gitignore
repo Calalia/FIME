@@ -12,3 +12,5 @@ Saved
 *.suo
 *.xcodeproj
 *.xcworkspace
+Content/Scenes/TestMap.umap
+Content/Scenes/TestMap_BuiltData.uasset
